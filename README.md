@@ -1,2 +1,2 @@
 # tasm
-test asm
+Simple interpreter for prototype assembly language
